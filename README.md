@@ -26,6 +26,10 @@ It supports the headings, paragraphs, lists, bold text, inline code and links
 used by these content files; it is not a general-purpose Markdown renderer.
 Review content and links before committing regenerated pages.
 
+Run local checks with `python3 -m unittest -q test_site`. After deployment,
+`python3 verify_live_site.py` checks exact deployed page content, trusted TLS,
+HTTP-to-HTTPS redirects and the custom 404 page.
+
 To import newly owner-approved policy/support drafts:
 
 ```sh
