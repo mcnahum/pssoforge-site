@@ -1,6 +1,7 @@
 Publisher: **Marc Nahum**, under the **e-nahum.net** brand.
 Privacy and support contact: **pssoforge@e-nahum.net**.
 Effective date: **October 3, 2026**.
+Last updated: **October 4, 2026**.
 
 PSSO Forge creates, analyzes and corrects local Microsoft Intune Settings Catalog
 JSON files. The application does not require a PSSO Forge account.
@@ -71,6 +72,13 @@ than 12 months after the last related exchange, or after receipt if there is no
 exchange. Diagnostic attachments are deleted when the issue is resolved.
 These rules concern the developer's copies, not records retained by Apple.
 
+Support attachments and feedback can include screenshots. Complete Apple/Xcode
+crash reports can contain crash details, app and system versions, and device-level
+identifiers when present, such as a CrashReporter Key or TestFlight Beta Identifier.
+These materials may be associated with a support case identified by an email
+address or tester. They are used only for support and issue correction, not
+advertising, behavioral analytics or tracking.
+
 ### Retention, deletion and support
 
 Delete exported files yourself to remove those copies; deleting the application
@@ -80,7 +88,8 @@ diagnostic file, that information is provided to the recipient you choose. Do no
 send credentials, tokens or unredacted production profiles.
 
 Support messages can contain your email address, name, message, app version and
-any sanitized attachments you choose to include. These are used only to
+attachments you choose to include after removing secrets and sensitive production
+information. These are used only to
 answer your request and investigate the reported issue, not advertising or
 marketing. The support address uses Google's email service. Email delivery also
 involves the sender's email provider. No automatic profile upload or in-app support submission form is
@@ -106,4 +115,3 @@ Relevant App Store privacy disclosures will also be reviewed.
 - [GitHub Privacy Statement](https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement)
 - [Google Privacy Policy](https://policies.google.com/privacy)
 - [GitHub Pages visitor logging](https://docs.github.com/en/pages/getting-started-with-github-pages/what-is-github-pages)
-

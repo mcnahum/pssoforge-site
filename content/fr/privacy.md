@@ -1,6 +1,7 @@
 Éditeur : **Marc Nahum**, sous la marque **e-nahum.net**.
 Contact confidentialité et assistance : **pssoforge@e-nahum.net**.
 Date d'effet : **3 octobre 2026**.
+Dernière mise à jour : **4 octobre 2026**.
 
 PSSO Forge crée, analyse et corrige des fichiers JSON Microsoft Intune Settings
 Catalog locaux. L'application ne nécessite pas de compte PSSO Forge.
@@ -78,6 +79,14 @@ s'il n'y a aucun échange. Les pièces jointes de diagnostic sont supprimées à
 résolution. Ces règles concernent les copies du développeur, pas les
 enregistrements conservés par Apple.
 
+Les pièces jointes d'assistance et les retours peuvent inclure des captures
+d'écran. Les rapports de crash complets Apple/Xcode peuvent contenir des détails
+du crash, les versions de l'application et du système, ainsi que des identifiants
+d'appareil lorsqu'ils sont présents, tels que CrashReporter Key ou TestFlight
+Beta Identifier. Ces éléments peuvent être associés à un dossier identifié par
+un email ou un testeur. Ils servent uniquement à l'assistance et à la correction
+des problèmes, sans publicité, analyse comportementale ni suivi.
+
 Supprimez vous-même les fichiers exportés ; désinstaller l'application ne supprime
 pas nécessairement les fichiers enregistrés ailleurs. Apple gère la conservation
 de ses enregistrements d'achat. Les informations volontairement transmises au
@@ -85,8 +94,9 @@ support sont communiquées au destinataire choisi. N'envoyez ni identifiants
 secrets, ni jetons, ni profils de production non anonymisés.
 
 Les demandes d'assistance peuvent contenir votre adresse email, votre nom,
-votre message, la version de l'application et les pièces jointes anonymisées
-que vous choisissez d'envoyer. Ces informations servent uniquement à répondre
+votre message, la version de l'application et les pièces jointes que vous
+choisissez d'envoyer après avoir retiré les secrets et les informations de
+production sensibles. Ces informations servent uniquement à répondre
 à votre demande et à examiner le problème signalé, sans publicité ni prospection.
 L'adresse de support utilise la messagerie Google. L'acheminement implique aussi
 le prestataire de messagerie de l'expéditeur. PSSO Forge n'implémente ni envoi automatique de profils ni formulaire
@@ -114,4 +124,3 @@ Les déclarations de confidentialité App Store concernées seront aussi réexam
 - [Confidentialité GitHub](https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement)
 - [Confidentialité Google](https://policies.google.com/privacy)
 - [Journaux des visites GitHub Pages](https://docs.github.com/en/pages/getting-started-with-github-pages/what-is-github-pages)
-
